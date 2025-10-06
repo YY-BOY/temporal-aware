@@ -6,44 +6,75 @@ This directory contains PDF papers related to temporal chest X-ray report genera
 
 ### 🔥 Recent Temporal Change Detection Works (2024-2025)
 
-1. **liu2025mlrg_CVPR2025.pdf** - Enhanced Contrastive Learning with Multi-view Longitudinal Data (CVPR 2025)
-2. **wang2024hergen_ECCV2024.pdf** - HERGen: Elevating Radiology Report Generation with Longitudinal Data (ECCV 2024)
-3. **kim2024ehrxdiff_CHIL2025.pdf** - EHRXDiff: Predicting Temporal Changes using EHR (CHIL 2025)
-4. **atici2024tibix_MICCAI2024.pdf** - TiBiX: Bidirectional X-ray and Report Generation (MICCAI 2024)
-5. **xie2024cxrtft.pdf** - CXR-TFT: Multi-Modal Temporal Fusion Transformer
+1. **Liu_2025_MLRG_Enhanced_Contrastive_Learning_Multi_View_Longitudinal_CXR_CVPR.pdf**
+   - Enhanced Contrastive Learning with Multi-view Longitudinal Data (CVPR 2025)
+
+2. **Wang_2024_HERGen_History_Enhanced_Radiology_Report_Generation_Longitudinal_ECCV.pdf**
+   - HERGen: Elevating Radiology Report Generation with Longitudinal Data (ECCV 2024)
+
+3. **Kim_2024_EHRXDiff_Predicting_Temporal_Changes_CXR_from_EHR_CHIL.pdf**
+   - EHRXDiff: Predicting Temporal Changes using EHR (CHIL 2025)
+
+4. **Atici_2024_TiBiX_Temporal_Bidirectional_XRay_Report_Generation_MICCAI.pdf**
+   - TiBiX: Bidirectional X-ray and Report Generation (MICCAI 2024)
+
+5. **Xie_2024_CXR_TFT_MultiModal_Temporal_Fusion_Transformer_CXR_Trajectories.pdf**
+   - CXR-TFT: Multi-Modal Temporal Fusion Transformer
 
 ### 🏗️ Transformer & Vision Architectures
 
-6. **sriram2025gitcxr.pdf** - GIT-CXR: End-to-End Transformer for Report Generation
-7. **dosovitskiy2020vit.pdf** - Vision Transformer (ViT) - Foundational Paper
+6. **Sriram_2025_GIT_CXR_End_to_End_Transformer_Report_Generation.pdf**
+   - GIT-CXR: End-to-End Transformer for Report Generation
+
+7. **Dosovitskiy_2020_ViT_Vision_Transformer_Image_Recognition_at_Scale.pdf**
+   - Vision Transformer (ViT) - Foundational Paper
 
 ### 🔗 Vision-Language Models
 
-8. **radford2021clip.pdf** - CLIP: Contrastive Language-Image Pre-training (Foundational)
+8. **Radford_2021_CLIP_Contrastive_Language_Image_Pretraining.pdf**
+   - CLIP: Contrastive Language-Image Pre-training (Foundational)
 
 ### ⏱️ Contrastive Learning for Temporal Data
 
-9. **ouyang2023comet.pdf** - COMET: Hierarchical Contrastive Framework for Medical Time-Series
-10. **lotzsch2024spatiotemporal.pdf** - Spatiotemporal Representation Learning
-11. **pang2023longitudinal.pdf** - Longitudinal Data with Semantic Similarity Reward
+9. **Ouyang_2023_COMET_Hierarchical_Contrastive_Framework_Medical_Time_Series.pdf**
+   - COMET: Hierarchical Contrastive Framework for Medical Time-Series
+
+10. **Lotzsch_2024_Spatiotemporal_Representation_Learning_Medical_Image_Time_Series.pdf**
+    - Spatiotemporal Representation Learning
+
+11. **Pang_2023_Longitudinal_Data_Semantic_Similarity_Reward_CXR_Report_Generation.pdf**
+    - Longitudinal Data with Semantic Similarity Reward
 
 ### 📊 Evaluation Metrics
 
-12. **jain2021radgraph.pdf** - RadGraph: Clinical Entity Extraction (RadGraph F1 metric)
-13. **smit2020chexbert.pdf** - CheXbert: Clinical Efficacy Evaluation
+12. **Jain_2021_RadGraph_Extracting_Clinical_Entities_Relations_Radiology_Reports.pdf**
+    - RadGraph: Clinical Entity Extraction (RadGraph F1 metric)
+
+13. **Smit_2020_CheXbert_Automatic_Labelers_Expert_Annotations_Radiology_Reports.pdf**
+    - CheXbert: Clinical Efficacy Evaluation
 
 ### 🗄️ Datasets
 
-14. **boecking2022mscxrt.pdf** - MS-CXR-T: Microsoft Temporal Dataset
-15. **irvin2019chexpert.pdf** - CheXpert: Large Chest Radiograph Dataset
+14. **Boecking_2022_MS_CXR_T_Text_Semantics_Biomedical_Vision_Language_Processing.pdf**
+    - MS-CXR-T: Microsoft Temporal Dataset
+
+15. **Irvin_2019_CheXpert_Large_Chest_Radiograph_Dataset_Uncertainty_Labels.pdf**
+    - CheXpert: Large Chest Radiograph Dataset
 
 ### 🤖 Advanced Methods
 
-16. **yan2024llmrg4.pdf** - LLM-RG4: Flexible Radiology Report Generation
+16. **Yan_2024_LLM_RG4_Flexible_Factual_Radiology_Report_Generation.pdf**
+    - LLM-RG4: Flexible Radiology Report Generation
+
+### 📈 Benchmarks & Leaderboards
+
+17. **Zhang_2024_ReXrank_Public_Leaderboard_AI_Radiology_Report_Generation.pdf**
+    - ReXrank: Public Leaderboard for AI-Powered Radiology Report Generation
+    - ReXGradient dataset with 10,000 studies and 8 evaluation metrics
 
 ## Total Papers Downloaded
 
-**16 papers** successfully downloaded from arXiv (44.4 MB total)
+**17 papers** successfully downloaded from arXiv (45.4 MB total)
 
 ## Key Research Areas Covered
 
